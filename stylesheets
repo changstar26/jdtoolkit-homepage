@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Albert Chang iii's Homepage for Journalism Design Toolkit</title>
+	<link rel="stylesheet" href="stylesheets/styles.css" type="text/css"  />
+	</head>
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400&display=swap" rel="stylesheet">
+
+<h1 class="main-hed">Final Project</h1>
+	
+<ul class="navbar">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="photos.html">Photos</a></li>
+   <li><a href="poster.html">Poster</a></li>
+   <li><a href="final.html">Final</a></li>
+</ul>
